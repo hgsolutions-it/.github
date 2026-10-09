@@ -18,10 +18,10 @@ Costruiamo soluzioni software proprietarie, scalabili e stabili che fanno cresce
 
 | Servizio | Cosa consegniamo | Link |
 | :--- | :--- | :--- |
-| **Sviluppo Software Custom** | Web App, gestionali ERP/CRM, piattaforme cloud personalizzate | [hgsolutions.it](https://hgsolutions.it) |
-| **Cloud Integration & Migration** | Modernizzazione infrastrutture, migrazione AWS/Azure, integrazione sistemi | [hgsolutions.it/cloud](https://hgsolutions.it) |
-| **Intelligenza Artificiale Aziendale** | Automazione processi, agenti AI su misura per PMI | [hgsolutions.it/ai](https://hgsolutions.it) |
-| **Cybersecurity e GDPR** | Audit sicurezza, disaster recovery, compliance normativa italiana | [hgsolutions.it/cybersecurity](https://hgsolutions.it) |
+| **Sviluppo Software Custom** | Web App, gestionali ERP/CRM, piattaforme cloud personalizzate | [hgsolutions.it](https://www.hgsolutions.it/sviluppo-software/) |
+| **Cloud Integration & Migration** | Modernizzazione infrastrutture, migrazione AWS/Azure, integrazione sistemi | [hgsolutions.it/cloud](https://www.hgsolutions.it/cloud-integrazione/) |
+| **Intelligenza Artificiale Aziendale** | Automazione processi, agenti AI su misura per PMI | [hgsolutions.it/ai](https://www.hgsolutions.it/intelligenza-artificiale/) |
+| **Cybersecurity e GDPR** | Audit sicurezza, disaster recovery, compliance normativa italiana | [hgsolutions.it/cybersecurity](https://www.hgsolutions.it/cybersecurity/) |
 
 📍 **HG Solutions srl** - Via Sant'Anna 26, 20014 Nerviano (MI) | Tel: +39 392 035 8539
 
