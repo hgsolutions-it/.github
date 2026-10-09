@@ -57,14 +57,14 @@ Open-sourciamo i tool che usiamo ogni giorno per le PMI. Usali, forkali, contrib
 
 ### ✍️ Dal nostro Blog Tecnologico
 
-Guide pratiche che pubblichiamo su [hgsolutions.it/blog](https://hgsolutions.it):
+Guide pratiche che pubblichiamo su [hgsolutions.it/blog](https://www.hgsolutions.it/blog/):
 
 - Come scegliere un ERP custom vs gestionale pronto
 - Cloud migration per PMI: costi reali e errori da evitare
 - GDPR 2026: checklist operativa per aziende sotto i 50 dipendenti
 - Agenti AI in azienda: 3 casi d'uso che pagano lo stipendio
 
-Leggi tutto su **[hgsolutions.it - Blog Tecnologico](https://hgsolutions.it)**
+Leggi tutto su **[hgsolutions.it - Blog Tecnologico](https://www.hgsolutions.it/blog/)**
 
 ---
 
