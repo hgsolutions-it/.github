@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://hgsolutions.it"><img src="https://img.shields.io/badge/Website-hgsolutions.it-238636?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://hgsolutions.it/erp-subscription/"><img src="https://img.shields.io/badge/ERP%20/%20CRM-Custom-0d1117?style=for-the-badge" /></a>
+  <a href="https://hgsolutions.it"><img src="https://img.shields.io/badge/ERP%20/%20CRM-Custom-0d1117?style=for-the-badge" /></a>
   <a href="mailto:info@hgsolutions.it"><img src="https://img.shields.io/badge/Email-info%40hgsolutions.it-blue?style=for-the-badge&logo=gmail" /></a>
 </p>
 
@@ -18,7 +18,7 @@ Costruiamo soluzioni software proprietarie, scalabili e stabili che fanno cresce
 
 | Servizio | Cosa consegniamo | Link |
 | :--- | :--- | :--- |
-| **Sviluppo Software Custom** | Web App, gestionali ERP/CRM, piattaforme cloud personalizzate | [hgsolutions.it/erp-subscription](https://hgsolutions.it/erp-subscription/) |
+| **Sviluppo Software Custom** | Web App, gestionali ERP/CRM, piattaforme cloud personalizzate | [hgsolutions.it](https://hgsolutions.it) |
 | **Cloud Integration & Migration** | Modernizzazione infrastrutture, migrazione AWS/Azure, integrazione sistemi | [hgsolutions.it/cloud](https://hgsolutions.it) |
 | **Intelligenza Artificiale Aziendale** | Automazione processi, agenti AI su misura per PMI | [hgsolutions.it/ai](https://hgsolutions.it) |
 | **Cybersecurity e GDPR** | Audit sicurezza, disaster recovery, compliance normativa italiana | [hgsolutions.it/cybersecurity](https://hgsolutions.it) |
